@@ -1,0 +1,9 @@
+git commands 
+------------
+echo "# fswd-dec-9am" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/narasimhareddyprostack/fswd-dec-9am.git
+git push -u origin main
