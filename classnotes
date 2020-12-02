@@ -7,3 +7,25 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/narasimhareddyprostack/fswd-dec-9am.git
 git push -u origin main
+
+
+Required Software and installations
+vs code 
+git 
+github/gitlab/gitbucket
+
+node js 
+
+Mongo DB 
+Postgres SQL 
+Pycharm 
+
+python 
+
+Best IDE for web Developer 
+https://hackr.io/blog/web-development-ide
+1. VS code
+2. Web Storm 
+3. Sublime Text 
+4. ATOM 
+5. 
