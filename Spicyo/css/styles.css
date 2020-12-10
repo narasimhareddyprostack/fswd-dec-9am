@@ -1,7 +1,9 @@
-h2 {
-  color: greenyellow;
+.rajiniKanth {
+  color: rgb(233, 42, 42);
+  background-color: #006d00;
+  border-color: #082008;
 }
 
-p {
-  font-size: large;
+#psa {
+  color: #5bc0de;
 }
