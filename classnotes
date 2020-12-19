@@ -33,3 +33,25 @@ https://hackr.io/blog/web-development-ide
 3. Sublime Text 
 4. ATOM 
 5. 
+
+
+JS - comments 
+
+//  Single Line Comments 
+
+/*
+  Multiline comments
+  Multiline comments
+  Multiline comments
+
+  JS - comments : interpretor ignore the comments
+*/
+
+
+/*
+Js Statement, semicolor
+commments 
+Identfier - 
+Keywords/Reserver Words - Specific purpose
+console.log("String", variable)
+*/
