@@ -1,0 +1,19 @@
+Number
+String
+Boolean 
+Null 
+Undefined 
+Symbol
+
+
+Object 
+--------------------
+C R U D  
+
+
+var x = 10 ; 
+x 
+
+x = 20 
+
+del x   
