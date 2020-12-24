@@ -1,4 +1,3 @@
-const x = 200;
 function add() {
   var x = 10;
   console.log(x);
@@ -6,6 +5,7 @@ function add() {
 
 add();
 function one() {
+  let x = 20;
   console.log(x);
 }
 one();
